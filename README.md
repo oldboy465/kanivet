@@ -1,11 +1,8 @@
 # KANIVET XP — CYBER-GIT MDNATOR UNIVERSAL SUITE (ENTERPRISE EDITION v5.0)
-
-# ========================================================================================
-Autor Principal : Philipe Sampaio Lima (@OldBoy465)
+Autor : Philipe Sampaio Lima (@OldBoy465)
 Co-Autoria      : Engenharia de Prompts & Inteligência Artificial
 Ano             : 2026
-Contatos        : cienciaegestao@gmail.com | WhatsApp: +55 98 98250-6920
-Repositório     : [https://github.com/OldBoy465](https://www.google.com/search?q=https://github.com/OldBoy465)
+Repositório     : [https://github.com/OldBoy465](https://www.google.com/search?q=https://github.com/oldBoy465)
 
 ## 1. VISÃO GERAL DO SISTEMA
 
